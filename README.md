@@ -4,7 +4,7 @@
 
 ### Software Engineer · ML · Data · Bengaluru, Karnataka
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-c8f135?style=for-the-badge&logoColor=black)](https://ankitharameshgowda.github.io/My-Portfolio-/)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-c8f135?style=for-the-badge&logoColor=black)](https://ankitharameshgowda.github.io/MyPortfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitha-ramesh-a63839268/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitharam436@gmail.com)
 
