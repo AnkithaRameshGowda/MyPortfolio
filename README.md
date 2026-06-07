@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-Final-year **Computer Science Engineering** student at Rajarajeswari College of Engineering, Bengaluru (CGPA: **9.25**). I build **backend systems, ML pipelines, and full-stack applications** with real-world impact.
+Final-year **Computer Science Engineering** student at Rajarajeswari College of Engineering, Bengaluru (CGPA: **9.34**). I build **backend systems, ML pipelines, and full-stack applications** with real-world impact.
 
 - 🏢 Currently: **Full Stack Intern @ SuprMentr** (React · Node.js · MongoDB)
 - 🏢 Previously: **Associate SWE Intern @ Accenture** (Java · Python · REST APIs)
@@ -143,7 +143,7 @@ Java · Python · CI/CD · Agile
 
 | Degree | Institution | Score |
 |---|---|---|
-| B.E. CSE | RRCE, Bengaluru | 9.25 CGPA |
+| B.E. CSE | RRCE, Bengaluru | 9.34 CGPA |
 | Class XII | Karnataka Board | 95.2% |
 
 ---
